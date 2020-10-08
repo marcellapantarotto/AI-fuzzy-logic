@@ -1,0 +1,3 @@
+[submodule "simpfu"]
+	path = simpfu
+	url = https://github.com/aresio/simpful.git
